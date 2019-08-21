@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "10.16.2",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praveez/Intro-to-Node.git"
+  },
+  "author": "Praveen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Praveez/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/Praveez/Intro-to-Node#readme"
+}
